@@ -35,7 +35,10 @@ const anushka = {
 ## 📊 My Code Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=radical&hide_border=false&background=0d1117&ring=9745f5&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -45,21 +48,19 @@ const anushka = {
 ## 🎨 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - Donut Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Donut Chart" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Pie Chart" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - Compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Compact" />
 </p>
 
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=github-compact&hide_border=false&area=true&bg_color=0d1117&color=9745f5&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
 </p>
 
 ## 📌 My Projects
