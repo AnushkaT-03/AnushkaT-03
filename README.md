@@ -1,92 +1,36 @@
-<!-- ──────────────────────────────────────────────── -->
-<!--            🌟 ANUSHKA • DIGITAL PRESENCE        -->
-<!-- ──────────────────────────────────────────────── -->
-
+<!-- You won't find this exact vibe anywhere else ;) -->
 <div align="center">
 
-```
-┏━━━━━━━━━✨━━━━━━━━━┓
-     𝐀𝐍𝐔𝐒𝐇𝐊𝐀 𝐓 • 𝐂𝐑𝐄𝐀𝐓𝐎𝐑  
-┗━━━━━━━━━✨━━━━━━━━━┛
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=FF66C4&center=true&vCenter=true&repeat=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Anushka;Building+little+universes+one+bug+at+a+time..." alt="Typing SVG" />
 
-### 🚀 *Engineer • Developer • Designer • Problem Solver*  
-I build things that make people go **“Wait… you made THIS?”**
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=AnushkaT-03&label=Visitors&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AnushkaT-03&label=Visitors+%F0%9F%91%80&color=ff66c4&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+<br>
 
-# 💫 **About Me**
-- 🎓 2nd Year *Computer Engineering* Student (SPPU – 2024 Pattern)
-- ✨ Self-taught learner in UI/UX, Python, and Web Dev  
-- 💡 Turning ideas into reality through **Mini Projects**
-- 🎯 Goal: Become a **Full-Stack Developer + UI/UX Specialist**  
-- 🎧 Code + Music + Midnight Builds = *My aesthetic*  
+### 🌙 Who I Actually Am (no filter)
 
----
+2ⁿᵈ year Computer Engineering student trying to survive SPPU’s 2024 pattern while secretly enjoying the chaos  
+I break things → panic for 0.2 sec → Google → fix → feel like a god → repeat  
 
-# 🧠 **Tech & Tools I Work With**
-### **Languages**
-`Java` • `C` • `Python` (learning) • `JavaScript`
+I don’t know everything.  
+But I’m stubborn enough to learn anything.
 
-### **Web & Dev**
-`HTML` • `CSS` • Git • GitHub • VS Code
+<br>
 
-### **Learning Right Now**
-- Java OOP  
-- Full-Stack Web Development  
-- DSA + Problem Solving  
-- Clean UI/UX + Figma  
+### 🧬 Current Obsessions (real-time)
 
----
+```yaml
+Learning:
+  - Java OOP (finally understanding why inheritance isn't just free code)
+  - Frontend → slowly walking towards Full-Stack
+  - DSA (LeetCode hates me, but we're in a situationship)
+  - Clean, intuitive UI that doesn't hurt to look at
 
-# 📁 **My Latest Projects**  
-*(AUTO-UPDATING – this section stays fresh automatically)*
-
-<!-- AUTO-UPDATE:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
-- 🔹 [Enginuity](https://github.com/AnushkaT-03/Enginuity)
-- 🔹 [DSA](https://github.com/AnushkaT-03/DSA)
-- 🔹 [Mini-Projects](https://github.com/AnushkaT-03/Mini-Projects)
-- 🔹 [Smart-Connect](https://github.com/AnushkaT-03/smart-connect)
-<!-- AUTO-UPDATE:END -->
-
----
-
-# 🔥 **My Coding Universe (Stats)**
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnushkaT-03&theme=neon-dark&hide_border=true&border_radius=10)
-
-![Anushka Stats](https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&border_radius=12)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&border_radius=12)
-
-</div>
-
----
-
-# 💎 **Personal Touch**
-```
-“Not in competition with others — 
-  just becoming the better version of me.”
-```
-
----
-
-# 🌐 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?style=for-the-badge&logo=linkedin)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/AnushkaT-03)
-
----
-
-<div align="center">
-
-✨ *Made with logic, creativity, and a bit of chaos.*  
-⚡ *Profile auto-updates daily.*
-
-</div>
+Vibes:
+  - Midnight coding + lo-fi
+  - Figma wireframes at 3 AM
+  - Turning "this is boring" into "wait, I can build this?"
