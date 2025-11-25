@@ -85,8 +85,8 @@ Tiny projects where I test ideas
 ## 🌟 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This will be auto-populated by GitHub Actions -->
 <!--END_SECTION:activity-->
+
 
 ## 💭 My Approach
 
