@@ -35,42 +35,29 @@ const anushka = {
 ## 📊 Code Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnushkaT-03&theme=tokyonight&hide_border=true&show_icons=true" 
-    alt="Anushka's GitHub Stats" 
-  />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AnushkaT-03&theme=radical&hide_border=false&show_icons=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://streak-stats.demolab.com/?user=AnushkaT-03&theme=radical&hide_border=false" />
 </p>
+
 
 
 ## 🎨 Language Distribution
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=tokyonight&hide_border=true" 
-    alt="Top Languages - Donut"
-  />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=tokyonight&hide_border=true" 
-    alt="Top Languages - Pie"
-  />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages - Compact"
-  />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false" />
 </p>
+
 
 
 
