@@ -35,11 +35,7 @@ const anushka = {
 ## 📊 Code Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
