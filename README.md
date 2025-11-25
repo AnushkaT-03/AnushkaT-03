@@ -12,7 +12,7 @@
 
 ## 🎯 What I'm Up To
 
-Right now, I'm navigating through the exciting (and sometimes overwhelming) world of code. I'm a **2nd year Computer Engineering student** who believes in learning by doing—even if that means breaking things first.
+Right now, I'm navigating through the exciting (and sometimes overwhelming) world of code. I'm a **2nd year Computer Engineering student** who believes in learning by doing...even if that means breaking things first.
 
 **Current Focus:**
 - Wrapping my head around Java OOP concepts
@@ -32,41 +32,37 @@ const anushka = {
 };
 ```
 
-## 📊 My Code Journey
+## 📊 My Code Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true)
+## 🎨 Language Distribution
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - Donut Chart" />
+</p>
 
-## 🎨 Language Usage Across All Repos
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - Pie Chart" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages - Compact" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+## 🔥 Contribution Activity
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
-## 📊 Repository Language Breakdown
-
-<div align="center">
-
-![Repo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey)
-
-</div>
-
-## 📌 Pinned Projects
+## 📌 My Projects
 
 **[Enginuity](https://github.com/AnushkaT-03/Enginuity)** – *In Progress*  
 Building something for engineers, by an engineer-in-training
@@ -98,18 +94,25 @@ I'm not here to pretend I know everything. I'm here to:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anushka-talole-j2007/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/AnushkaT-03)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail)](mailto:anushkartalole@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushka-talole-j2007/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AnushkaT-03">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:anushkartalole@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnushkaT-03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnushkaT-03&color=blueviolet&style=flat-square&label=Profile+Views)
-
-*Auto-updates daily at midnight UTC*
-
-**✨ This profile updates itself with fresh stats and activity ✨**
-
-</div>
+<p align="center">
+  <i>Auto-updates daily at midnight UTC</i><br>
+  <b>✨ This profile updates itself with fresh stats and activity ✨</b>
+</p>
