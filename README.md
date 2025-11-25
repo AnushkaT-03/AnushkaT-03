@@ -37,12 +37,9 @@ const anushka = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=radical&hide_border=false&background=0d1117&ring=9745f5&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=radical&hide_border=false&background=0d1117&ring=9745f5&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
 
 ## 🎨 Language Distribution
@@ -50,9 +47,11 @@ const anushka = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Donut Chart" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Pie Chart" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Compact" />
 </p>
