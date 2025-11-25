@@ -112,7 +112,4 @@ I'm not here to pretend I know everything. I'm here to:
   <img src="https://komarev.com/ghpvc/?username=AnushkaT-03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <i>Auto-updates daily at midnight UTC</i><br>
-  <b>✨ This profile updates itself with fresh stats and activity ✨</b>
-</p>
+
