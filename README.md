@@ -32,35 +32,20 @@ const anushka = {
 };
 ```
 
-## 📊 My Code Stats
+## 📊 Code Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=radical&hide_border=false&background=0d1117&ring=9745f5&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&theme=radical&hide_border=false&show_icons=true" /> </p> 
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=AnushkaT-03&theme=radical&hide_border=false" /> </p>
 
 ## 🎨 Language Distribution
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Donut Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Pie Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false&langs_count=8&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9" alt="Top Languages - Compact" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical&hide_border=false" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical&hide_border=false" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false" /> </p>
 
 ## 🔥 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=github-compact&hide_border=false&area=true&bg_color=0d1117&color=9745f5&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=react-dark&hide_border=false&area=true" /> </p>
 
 ## 📌 My Projects
 
@@ -74,7 +59,7 @@ My problem-solving journey, one algorithm at a time
 Trying to connect dots and make something useful
 
 **[Mini-Projects](https://github.com/AnushkaT-03/Mini-Projects)** – *Experiments*  
-Small projects where I test ideas and learn new things
+Tiny projects where I test ideas
 
 ## 🌟 Recent GitHub Activity
 
