@@ -82,12 +82,6 @@ Trying to connect dots and make something useful
 **[Mini-Projects](https://github.com/AnushkaT-03/Mini-Projects)** – *Experiments*  
 Tiny projects where I test ideas
 
-## 🌟 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 ## 💭 My Approach
 
 I'm not here to pretend I know everything. I'm here to:
