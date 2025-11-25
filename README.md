@@ -45,14 +45,6 @@ const anushka = {
 ## 🎨 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false" />
 </p>
 
