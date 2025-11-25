@@ -2,7 +2,7 @@ name: Update README with Latest Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight UTC
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Update GitHub Activity
         uses: jamesgeorge007/github-activity-readme@v0.4.4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "🤖 Auto-update README with latest activity"
           MAX_LINES: 10
+          token: ${{ secrets.GITHUB_TOKEN }}
