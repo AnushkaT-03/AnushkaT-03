@@ -35,28 +35,53 @@ const anushka = {
 ## 📊 Code Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnushkaT-03&theme=tokyonight&hide_border=true&show_icons=true" 
+    alt="Anushka's GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 
 ## 🎨 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=radical" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=tokyonight&hide_border=true" 
+    alt="Top Languages - Donut"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=radical" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=tokyonight&hide_border=true" 
+    alt="Top Languages - Pie"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages - Compact"
+  />
 </p>
 
 
-## 🔥 Contribution Activity
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=react-dark&hide_border=false&area=true" /> </p>
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=tokyo-night&hide_border=true&area=true" 
+    alt="Contribution Graph"/>
+</p>
+
 
 ## 📌 My Projects
 
