@@ -25,7 +25,7 @@ Right now, I'm navigating through the exciting (and sometimes overwhelming) worl
 ```javascript
 const anushka = {
   comfortable_with: ["Java", "C", "HTML/CSS", "Git"],
-  currently_learning: ["JavaScript", "Python", "Tailwind"],
+  currently_learning: ["JavaScript", "Python", "Tailwind", "React"],
   want_to_explore: ["React", "Node.js", "UI/UX Design"],
   status: "perpetually_learning",
   future_skills: "More to update soon"
