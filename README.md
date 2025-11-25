@@ -17,7 +17,7 @@ Right now, I'm navigating through the exciting (and sometimes overwhelming) worl
 **Current Focus:**
 - Wrapping my head around Java OOP concepts
 - Building web projects to understand how things connect
-- Solving DSA problems (one TLE at a time)
+- Solving DSA problems (trying to 😅)
 - Designing interfaces that don't hurt to look at
 
 ## 🛠️ Tools I Work With
@@ -27,34 +27,46 @@ const anushka = {
   comfortable_with: ["Java", "C", "HTML/CSS", "Git"],
   currently_learning: ["JavaScript", "Python", "Tailwind"],
   want_to_explore: ["React", "Node.js", "UI/UX Design"],
-  status: "perpetually_learning"
+  status: "perpetually_learning",
+  future_skills: "More to update soon"
 };
 ```
 
-## 📊 My Code Journey (Auto-Updated Daily)
+## 📊 My Code Journey
 
-<!-- GitHub Stats -->
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 🎨 Language Distribution Across My Repos
+## 🎨 Language Usage Across All Repos
 
-<!-- Language Stats - Updates automatically -->
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+## 📊 Repository Language Breakdown
+
+<div align="center">
+
+![Repo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=pie&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey)
 
 </div>
 
 ## 📌 Pinned Projects
-
-<!-- PROJECTS:START -->
-<!-- This section auto-updates with your latest repositories -->
 
 **[Enginuity](https://github.com/AnushkaT-03/Enginuity)** – *In Progress*  
 Building something for engineers, by an engineer-in-training
@@ -65,12 +77,8 @@ My problem-solving journey, one algorithm at a time
 **[Smart-Connect](https://github.com/AnushkaT-03/smart-connect)** – *Experiment*  
 Trying to connect dots and make something useful
 
-<!-- PROJECTS:END -->
-
-## 📈 Contribution Activity (Live)
-
-<!-- Activity Graph - Updates automatically -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=AnushkaT-03&theme=tokyo-night&hide_border=true)
+**[Mini-Projects](https://github.com/AnushkaT-03/Mini-Projects)** – *Experiments*  
+Small projects where I test ideas and learn new things
 
 ## 🌟 Recent GitHub Activity
 
@@ -90,18 +98,18 @@ I'm not here to pretend I know everything. I'm here to:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anushka-talole-j2007/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/AnushkaT-03)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=flat-square&logo=gmail)](mailto:anushkartalole@gmail.com)
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AnushkaT-03&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AnushkaT-03&color=blueviolet&style=flat-square&label=Profile+Views)
 
-*Last auto-updated: Every day at midnight UTC*
+*Auto-updates daily at midnight UTC*
 
-**✨ This profile updates itself daily with fresh stats and activity ✨**
+**✨ This profile updates itself with fresh stats and activity ✨**
 
 </div>
