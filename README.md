@@ -34,20 +34,14 @@ const anushka = {
 
 ## 📊 Code Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AnushkaT-03&theme=radical&hide_border=false&show_icons=true" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnushkaT-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaT-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
 
 
 ## 🎨 Language Distribution
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=radical&hide_border=false" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaT-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
 
 
